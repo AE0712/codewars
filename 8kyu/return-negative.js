@@ -12,7 +12,7 @@ makeNegative(0.12); // return -0.12
 
 //Решение:
 function makeNegative(num) {
-return (num > 0)? -num : num;
+return (num > 0) ? -num : num;
 }
  
 console.log(makeNegative(5));
